@@ -1,2 +1,2 @@
-#React Hello world example
+# React Hello world example
 Getting started !!
